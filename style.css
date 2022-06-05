@@ -4,15 +4,16 @@
 }
 
 body {
-	background: linear-gradient(270deg, #2ba7d5, #2b7ad5, #2b3ed5, #5e4cbd, #7b4cbd);
-    background-size: 1000% 1000%;
-    animation: fundo 38s ease infinite;
+    background: linear-gradient(270deg, #d6d6d6, #c2c2c2, #afafaf, #9c9c9c, #919191, #828282);
+    background-size: 1200% 1200%;
+
+    animation: backg 11s ease infinite;
 }
 
-@keyframes fundo {
-    0%{background-position:0% 51%}
+@keyframes backg {
+    0%{background-position:0% 50%}
     50%{background-position:100% 50%}
-    100%{background-position:0% 51%}
+    100%{background-position:0% 50%}
 }
 
 .entrada{
