@@ -1,4 +1,4 @@
-# Calculado IMC 
+# Calculadora de IMC 
 
 ## Tecnologias usadas:
  * HTML5
